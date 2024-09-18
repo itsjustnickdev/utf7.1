@@ -1,5 +1,4 @@
-[![npm](https://img.shields.io/npm/dw/utf7.1)](https://www.npmjs.com/package/utf7.1)
-
+[![npm](https://img.shields.io/npm/dw/utf7.1)](https://www.npmjs.com/package/utf7.1) [![utf7.1 CI](https://github.com/nickdevnl/utf7.1/actions/workflows/nodejs.yml/badge.svg)](https://github.com/nickdevnl/utf7.1/actions/workflows/nodejs.yml)
 
 # UTF-7.1
 
