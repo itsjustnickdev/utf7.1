@@ -1,4 +1,4 @@
-[![npm](https://img.shields.io/npm/dw/utf7.1)](https://www.npmjs.com/package/utf7.1) [![utf7.1 CI](https://github.com/nickdevnl/utf7.1/actions/workflows/main.yml/badge.svg)](https://github.com/nickdevnl/utf7.1/actions/workflows/main.yml)
+[![npm](https://img.shields.io/npm/dw/utf7.1)](https://www.npmjs.com/package/utf7.1) [![utf7.1 CI](https://github.com/nickdevnl/utf7./actions/workflows/main.yml/badge.svg)](https://github.com/nickdevnl/utf7.1/actions/workflows/main.yml)
 
 # UTF-7.1
 
