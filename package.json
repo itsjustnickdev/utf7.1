@@ -6,9 +6,13 @@
     "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/nickdevnl/imap-node/blob/main/LICENSE"
+      "url": "https://github.com/nickdevnl/utf7.1/blob/main/LICENSE"
     }
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nickdevnl/utf7.1"
+  },
 
     "main": "./utf7",
 
