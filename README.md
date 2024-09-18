@@ -1,3 +1,6 @@
+[![npm](https://img.shields.io/npm/dw/utf7.1)](https://www.npmjs.com/package/utf7.1)
+
+
 # UTF-7.1
 
 Fork of utf7 but removed the vulnerabilities.
