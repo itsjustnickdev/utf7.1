@@ -1,0 +1,26 @@
+{
+    "name": "utf7.1",
+    "version": "1.0.4",
+    "description": "Converts text to and from UTF-7 (RFC 2152 and IMAP)",
+    "author": "Nick Brouwer <nick@blackforthosting.com>",
+    "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/nickdevnl/imap-node/blob/main/LICENSE"
+    }
+  ],
+
+    "main": "./utf7",
+
+    "dependencies": {
+        "semver": "~5.7.2"
+    },
+
+    "devDependencies": {
+        "tape": "~4.6.0"
+    },
+
+    "scripts": {
+        "test": "tape test/*.js"
+    }
+}
