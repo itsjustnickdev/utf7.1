@@ -1,6 +1,6 @@
 {
     "name": "utf7.1",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "Converts text to and from UTF-7 (RFC 2152 and IMAP)",
     "author": "Nick Brouwer <nick@blackforthosting.com>",
     "licenses": [
